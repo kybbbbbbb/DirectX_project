@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\BlueEngine_0211\Engine\Core\Engine.cpp;C:\Users\user\Desktop\BlueEngine_0211\Intermediate\x64\Debug\Engine\Engine.obj
+C:\Users\user\Desktop\BlueEngine_0211\Engine\Core\Window.cpp;C:\Users\user\Desktop\BlueEngine_0211\Intermediate\x64\Debug\Engine\Window.obj
+C:\Users\user\Desktop\BlueEngine_0211\Engine\Main.cpp;C:\Users\user\Desktop\BlueEngine_0211\Intermediate\x64\Debug\Engine\Main.obj
+C:\Users\user\Desktop\BlueEngine_0211\Engine\Math\Vector2.cpp;C:\Users\user\Desktop\BlueEngine_0211\Intermediate\x64\Debug\Engine\Vector2.obj
+C:\Users\user\Desktop\BlueEngine_0211\Engine\Math\Vector3.cpp;C:\Users\user\Desktop\BlueEngine_0211\Intermediate\x64\Debug\Engine\Vector3.obj
+C:\Users\user\Desktop\BlueEngine_0211\Engine\Render\Mesh.cpp;C:\Users\user\Desktop\BlueEngine_0211\Intermediate\x64\Debug\Engine\Mesh.obj
+C:\Users\user\Desktop\BlueEngine_0211\Engine\Render\QuadMesh.cpp;C:\Users\user\Desktop\BlueEngine_0211\Intermediate\x64\Debug\Engine\QuadMesh.obj
+C:\Users\user\Desktop\BlueEngine_0211\Engine\Render\Renderer.cpp;C:\Users\user\Desktop\BlueEngine_0211\Intermediate\x64\Debug\Engine\Renderer.obj
+C:\Users\user\Desktop\BlueEngine_0211\Engine\Render\TriangleMesh.cpp;C:\Users\user\Desktop\BlueEngine_0211\Intermediate\x64\Debug\Engine\TriangleMesh.obj
+C:\Users\user\Desktop\BlueEngine_0211\Engine\Shader\Shader.cpp;C:\Users\user\Desktop\BlueEngine_0211\Intermediate\x64\Debug\Engine\Shader.obj
