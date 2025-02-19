@@ -1,5 +1,5 @@
-﻿  compilation object save succeeded; see C:\Users\user\Desktop\BlueEngine_0211\Bin\x64\Debug\Engine\DefaultPixelShader.cso
-  compilation object save succeeded; see C:\Users\user\Desktop\BlueEngine_0211\Bin\x64\Debug\Engine\DefaultVertexShader.cso
+﻿  compilation object save succeeded; see C:\Users\user\Desktop\DirectX_project\Bin\x64\Debug\Engine\DefaultPixelShader.cso
+  compilation object save succeeded; see C:\Users\user\Desktop\DirectX_project\Bin\x64\Debug\Engine\DefaultVertexShader.cso
   Engine.cpp
   Window.cpp
   Main.cpp
@@ -11,4 +11,4 @@
   TriangleMesh.cpp
   Shader.cpp
   코드를 생성하고 있습니다...
-  Engine.vcxproj -> C:\Users\user\Desktop\BlueEngine_0211\Bin\x64\Debug\Engine\Engine.exe
+  Engine.vcxproj -> C:\Users\user\Desktop\DirectX_project\Bin\x64\Debug\Engine\Engine.exe
