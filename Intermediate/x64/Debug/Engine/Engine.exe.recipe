@@ -7,10 +7,10 @@
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>C:\Users\user\Desktop\DirectX_project\Bin\x64\Debug\Engine\DefaultPixelShader.cso</FullPath>
+      <FullPath>C:\Users\user\Desktop\DirectX_project\CompiledShader\DefaultPixelShader.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\user\Desktop\DirectX_project\Bin\x64\Debug\Engine\DefaultVertexShader.cso</FullPath>
+      <FullPath>C:\Users\user\Desktop\DirectX_project\CompiledShader\DefaultVertexShader.cso</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />

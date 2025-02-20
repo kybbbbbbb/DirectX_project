@@ -122,8 +122,6 @@ namespace Blue
 		);
 	}
 
-
-
 	Vector3 Lerp(const Vector3& from, const Vector3& to, float t)
 	{
 		// t °¡µÎ±â.

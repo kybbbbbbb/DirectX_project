@@ -6,5 +6,7 @@ C:\Users\user\Desktop\DirectX_project\Engine\Math\Vector3.cpp;C:\Users\user\Desk
 C:\Users\user\Desktop\DirectX_project\Engine\Render\Mesh.cpp;C:\Users\user\Desktop\DirectX_project\Intermediate\x64\Debug\Engine\Mesh.obj
 C:\Users\user\Desktop\DirectX_project\Engine\Render\QuadMesh.cpp;C:\Users\user\Desktop\DirectX_project\Intermediate\x64\Debug\Engine\QuadMesh.obj
 C:\Users\user\Desktop\DirectX_project\Engine\Render\Renderer.cpp;C:\Users\user\Desktop\DirectX_project\Intermediate\x64\Debug\Engine\Renderer.obj
+C:\Users\user\Desktop\DirectX_project\Engine\Render\Texture.cpp;C:\Users\user\Desktop\DirectX_project\Intermediate\x64\Debug\Engine\Texture.obj
 C:\Users\user\Desktop\DirectX_project\Engine\Render\TriangleMesh.cpp;C:\Users\user\Desktop\DirectX_project\Intermediate\x64\Debug\Engine\TriangleMesh.obj
 C:\Users\user\Desktop\DirectX_project\Engine\Shader\Shader.cpp;C:\Users\user\Desktop\DirectX_project\Intermediate\x64\Debug\Engine\Shader.obj
+C:\Users\user\Desktop\DirectX_project\Engine\Shader\TextureMappingShader.cpp;C:\Users\user\Desktop\DirectX_project\Intermediate\x64\Debug\Engine\TextureMappingShader.obj

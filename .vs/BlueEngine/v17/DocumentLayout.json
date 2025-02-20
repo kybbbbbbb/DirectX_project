@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\DirectX_project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\TriangleMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Render\\TriangleMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\HLSLShader\\DefaultPixelShader.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|solutionrelative:Engine\\HLSLShader\\DefaultPixelShader.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\HLSLShader\\DefaultVertexShader.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|solutionrelative:Engine\\HLSLShader\\DefaultVertexShader.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Render\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Shader\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Shader\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Render\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\Vertex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Render\\Vertex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\QuadMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Render\\QuadMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Core\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Core\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Math\\Vector3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0DEE700A-BEB0-440A-98C0-D62C4EA1ABBD}|Engine\\Engine.vcxproj|solutionrelative:Engine\\Math\\Vector3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -30,24 +66,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Engine\\Render\\Renderer.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\Renderer.cpp",
+              "RelativeToolTip": "Engine\\Render\\Renderer.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T02:13:16.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shader.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Shader\\Shader.cpp",
+              "RelativeDocumentMoniker": "Engine\\Shader\\Shader.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Shader\\Shader.cpp",
+              "RelativeToolTip": "Engine\\Shader\\Shader.cpp",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAAK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T02:09:38.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultVertexShader.hlsl",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\HLSLShader\\DefaultVertexShader.hlsl",
+              "RelativeDocumentMoniker": "Engine\\HLSLShader\\DefaultVertexShader.hlsl",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\HLSLShader\\DefaultVertexShader.hlsl",
+              "RelativeToolTip": "Engine\\HLSLShader\\DefaultVertexShader.hlsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-19T02:05:13.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DefaultPixelShader.hlsl",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\HLSLShader\\DefaultPixelShader.hlsl",
+              "RelativeDocumentMoniker": "Engine\\HLSLShader\\DefaultPixelShader.hlsl",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\HLSLShader\\DefaultPixelShader.hlsl",
+              "RelativeToolTip": "Engine\\HLSLShader\\DefaultPixelShader.hlsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-19T02:05:12.398Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TriangleMesh.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\TriangleMesh.cpp",
+              "RelativeDocumentMoniker": "Engine\\Render\\TriangleMesh.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\TriangleMesh.cpp",
+              "RelativeToolTip": "Engine\\Render\\TriangleMesh.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T02:02:53.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vertex.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\Vertex.h",
+              "RelativeDocumentMoniker": "Engine\\Render\\Vertex.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\Vertex.h",
+              "RelativeToolTip": "Engine\\Render\\Vertex.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-19T01:15:34.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mesh.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\Mesh.cpp",
+              "RelativeDocumentMoniker": "Engine\\Render\\Mesh.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\Mesh.cpp",
+              "RelativeToolTip": "Engine\\Render\\Mesh.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAADwv2gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T01:14:50.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuadMesh.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\QuadMesh.cpp",
+              "RelativeDocumentMoniker": "Engine\\Render\\QuadMesh.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Render\\QuadMesh.cpp",
+              "RelativeToolTip": "Engine\\Render\\QuadMesh.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T01:14:53.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Engine.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Core\\Engine.cpp",
+              "RelativeDocumentMoniker": "Engine\\Core\\Engine.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Core\\Engine.cpp",
+              "RelativeToolTip": "Engine\\Core\\Engine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T01:05:14.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Vector3.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Math\\Vector3.cpp",
               "RelativeDocumentMoniker": "Engine\\Math\\Vector3.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Math\\Vector3.cpp",
               "RelativeToolTip": "Engine\\Math\\Vector3.cpp",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIAAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-12T01:11:54.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T01:11:54.966Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Vector2.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Math\\Vector2.h",
               "RelativeDocumentMoniker": "Engine\\Math\\Vector2.h",
@@ -59,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Vector3.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Math\\Vector3.h",
               "RelativeDocumentMoniker": "Engine\\Math\\Vector3.h",
@@ -71,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Main.cpp",
               "RelativeDocumentMoniker": "Engine\\Main.cpp",
@@ -83,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Vector2.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\DirectX_project\\Engine\\Math\\Vector2.cpp",
               "RelativeDocumentMoniker": "Engine\\Math\\Vector2.cpp",
